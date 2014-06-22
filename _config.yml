@@ -37,22 +37,22 @@ headimg:
 
 #关注我
 follow:
-  - class: fa-google-plus
-    url: http://www.zhanxin.info
-  - class: fa-facebook
-    url: http://www.zhanxin.info
+#  - class: fa-google-plus
+#    url: http://www.zhanxin.info
+#  - class: fa-facebook
+#    url: http://www.zhanxin.info
   - class: fa-github
-    url: http://github.com/pizn
-  - class: fa-weibo
-    url: http://weibo.com/pizner
-  - class: fa-renren
-    url: http://www.zhanxin.info
-  - class: fa-pinterest
-    url: http://www.zhanxin.info
-  - class: fa-twitter
-    url: http://www.zhanxin.info
-  - class: fa-rss
-    url: http://www.zhanxin.info
+    url: https://github.com/zengxianbing
+#  - class: fa-weibo
+#    url: http://weibo.com/pizner
+#  - class: fa-renren
+#    url: http://www.zhanxin.info
+#  - class: fa-pinterest
+#    url: http://www.zhanxin.info
+#  - class: fa-twitter
+#    url: http://www.zhanxin.info
+#  - class: fa-rss
+#    url: http://www.zhanxin.info
 
 #作者信息
 author:

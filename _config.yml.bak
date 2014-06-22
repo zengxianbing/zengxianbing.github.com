@@ -21,9 +21,9 @@ nav:
   - text: 作品
     url: /works.html
   - text: 联系我
-    url: http://www.zhanxin.info/contact.html
+    url: https://github.com/zengxianbing
   - text: 博客源代码
-    url: https://github.com/pizn/pizn.github.com
+    url: https://github.com/zengxianbing/zengxianbing.github.com
 
 #theme config
 themes: /themes/violet
@@ -37,22 +37,22 @@ headimg:
 
 #关注我
 follow:
-  - class: fa-google-plus
-    url: http://www.zhanxin.info
-  - class: fa-facebook
-    url: http://www.zhanxin.info
+#  - class: fa-google-plus
+#    url: http://www.zhanxin.info
+#  - class: fa-facebook
+#    url: http://www.zhanxin.info
   - class: fa-github
     url: http://github.com/pizn
-  - class: fa-weibo
-    url: http://weibo.com/pizner
-  - class: fa-renren
-    url: http://www.zhanxin.info
-  - class: fa-pinterest
-    url: http://www.zhanxin.info
-  - class: fa-twitter
-    url: http://www.zhanxin.info
-  - class: fa-rss
-    url: http://www.zhanxin.info
+#  - class: fa-weibo
+#    url: http://weibo.com/pizner
+#  - class: fa-renren
+#    url: http://www.zhanxin.info
+#  - class: fa-pinterest
+#    url: http://www.zhanxin.info
+#  - class: fa-twitter
+#    url: http://www.zhanxin.info
+#  - class: fa-rss
+#    url: http://www.zhanxin.info
 
 #作者信息
 author:
